@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m learning programming with a focus on Python<br>and making good progress<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with Docker and server<br>🌱 I’m currently learning machine learning and the<br>Flask framework <br>💬 Ask me about Python, RESTful APIs or app development<br>⚡ Fun fact I spend more time polishing README files than my own hair.
+🔭 I’m learning programming with a focus on Python<br>and making good progress<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with Docker and server<br>🌱 I’m currently learning machine learning and the<br>Flask framework <br>💬 Ask me about Python, RESTful APIs or app development<br>⚡ Fun fact I spend more time polishing README files than my project.
 
 
 ## 🌐 Socials:
