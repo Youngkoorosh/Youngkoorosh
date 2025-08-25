@@ -1,35 +1,31 @@
-# Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is youngKoorosh
+=====================================================================================================================================
 
+Backend-focused Developer with Java & Android Experience, Exploring SRE and Frontend and ml and deep learning
+-------------------------------------------------------------------------------------------------------------
 
+I've been developing software professionally with a strong focus on backend systems and infrastructure. My journey started in Android development using Java and Android Studio, and I’ve since expanded into backend engineering, system design, and Site Reliability Engineering (SRE). I'm currently learning frontend technologies like React and UI fundamentals, while also diving into Machine Learning and Deep Learning to broaden my technical horizon. I thrive in collaborative environments and value clean architecture, reliability, and continuous improvement.
 
-# 💫 About Me:
-🔭 I’m learning programming with a focus on Python<br>and making good progress<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with Docker and server<br>🌱 I’m currently learning machine learning and the<br>Flask framework <br>💬 Ask me about Python, RESTful APIs or app development<br>⚡ Fun fact I spend more time polishing README files than my project.
+* ✉️  You can contact me at [koorosh.nrp@gmail.com](mailto:koorosh.nrp@gmail.com)
+* 🧠  I'm currently learning SRE, strengthening my skills in ML/DL, and diving into frontend development with React and modern UI design.
+* 👥  I'm looking to collaborate on full-stack and ML projects. Always eager to learn, build, and grow with great teams.
+* 💬  Ask me about I’m addicted to learning, teamwork, and building systems that don’t just work—but scale, recover, and evolve.
 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+
+### Socials
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youngkoury) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/koorosh-noroozpur-964705375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koorosh.nrp@gmail.com) 
 
+### Badges
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Youngkoorosh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-#
-![](https://nirzak-streak-stats.vercel.app/?user=Youngkoorosh&theme=dark&hide_border=false)<br/>
-#
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngkoorosh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<b>My GitHub Stats</b>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Youngkoorosh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="http://www.github.com/Youngkoorosh"><img src="https://github-readme-stats.vercel.app/api?username=Youngkoorosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Youngkoorosh's GitHub stats" /></a>
 
-### ✍️ Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="http://www.github.com/Youngkoorosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Youngkoorosh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Youngkoorosh&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Youngkoorosh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<a href="https://github.com/Youngkoorosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngkoorosh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
