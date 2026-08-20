@@ -24,7 +24,7 @@
 
 ## Building things, not just learning technologies.
 
-I build **full-stack web applications** with a strong focus on backend development,
+I build **full-stack web applications** with a focus on backend development,
 practical architecture, and turning ideas into working products.
 
 </div>
@@ -94,11 +94,7 @@ Version Control
 
 ### `02` — HOW I BUILD
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ```text
                          ┌──────────────────┐
@@ -151,7 +147,7 @@ I'm currently focused on building full-stack applications with:
 
 `Go` · `React` · `Next.js` · `PostgreSQL` · `Docker`
 
-Alongside application development, I'm gradually expanding my understanding of how applications are **deployed, monitored, and operated in production environments**.
+Alongside application development, I'm expanding my understanding of how applications are **deployed, monitored, and operated in production environments**.
 
 <br/>
 
@@ -175,9 +171,11 @@ Alongside application development, I'm gradually expanding my understanding of h
 
 <img src="https://skillicons.dev/icons?i=go" />
 
-<br/><br/>
+<br/>
 
 ### WebSockets
+
+</div>
 
 I'm working with **WebSockets** when real-time communication is required by the application.
 
@@ -197,8 +195,6 @@ Client
    PostgreSQL
 ```
 
-</div>
-
 ---
 
 <div align="center">
@@ -211,7 +207,7 @@ Client
 
 I enjoy learning new technologies when they solve a real problem.
 
-That means exploring different approaches as requirements change — whether that means improving an existing architecture, introducing real-time communication, or eventually moving toward **microservices or other architectural patterns** when the system actually needs them.
+As requirements change, I'm interested in exploring different approaches — whether that's improving an existing architecture, introducing real-time communication, or eventually moving toward **microservices or other architectural patterns** when the system actually needs them.
 
 The goal isn't to use more technologies.
 
@@ -260,25 +256,11 @@ The goal is to **understand the problem and choose the right solution**.
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Youngkoorosh&show_icons=true&hide_border=true&theme=github_dark&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngkoorosh&layout=compact&hide_border=true&theme=github_dark&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&langs_count=6" />
+<img src="https://streak-stats.demolab.com/?user=Youngkoorosh&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Youngkoorosh&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" />
-
-</div>
-
----
-
-<div align="center">
-
-### `08` — CONTRIBUTIONS
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Youngkoorosh/Youngkoorosh/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youngkoorosh&bg_color=020617&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
