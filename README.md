@@ -1,30 +1,179 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Koorosh
-=====================================================================================================================================
+<div align="center">
 
-Backend-focused Developer with Java & Android Experience, Exploring SRE and Frontend and ml and deep learning
--------------------------------------------------------------------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KOOROSH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=20&color=0:020617,50:0F172A,100:1D4ED8" width="100%"/>
 
-I've been developing software professionally with a strong focus on backend systems and infrastructure. My journey started in Android development using Java and Android Studio, and I’ve since expanded into backend engineering, system design, and Site Reliability Engineering (SRE). I'm currently learning frontend technologies like React and UI fundamentals, while also diving into Machine Learning and Deep Learning to broaden my technical horizon. I thrive in collaborative environments and value clean architecture, reliability, and continuous improvement.
+<br/>
 
-* ✉️  You can contact me at [koorosh.nrp@gmail.com](mailto:koorosh.nrp@gmail.com)
-* 🧠  I'm currently learning SRE, strengthening my skills in ML/DL, and diving into frontend development with React and modern UI design.
-* 👥  I'm looking to collaborate on full-stack and ML projects. Always eager to learn, build, and grow with great teams.
-* 💬  Ask me about I’m addicted to learning, teamwork, and building systems that don’t just work—but scale, recover, and evolve.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&height=35&lines=I+build+web+applications+end-to-end;Backend+%E2%80%A2+Frontend+%E2%80%A2+Deployment" />
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+<br/><br/>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youngkoury) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/koorosh-noroozpur-964705375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koorosh.nrp@gmail.com) 
+</div>
 
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Youngkoorosh"><img src="https://github-readme-stats.vercel.app/api?username=Youngkoorosh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Youngkoorosh's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/Youngkoorosh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Youngkoorosh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### I build complete web products.
 
-<a href="https://github.com/Youngkoorosh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngkoorosh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**From backend architecture → frontend → database → deployment**
+
+</div>
+
+<br/>
+
+## ⚡ Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,react,nextjs,typescript,postgresql,docker,linux,git" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### Backend
+
+Go
+REST APIs
+PostgreSQL
+SQL
+Database Design
+
+</td>
+
+<td align="center" width="33%">
+
+### Frontend
+
+React
+Next.js
+TypeScript
+Responsive UI
+
+</td>
+
+<td align="center" width="33%">
+
+### Deployment
+
+Docker
+Linux
+Nginx
+Git
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**More projects → [View all repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
+
+</div>
+
+---
+
+## 🧩 How I Work
+
+```text
+01  Understand the product
+          ↓
+02  Design the architecture
+          ↓
+03  Build the backend & database
+          ↓
+04  Build the frontend
+          ↓
+05  Containerize & deploy
+          ↓
+06  Improve
+```
+
+I focus on **clean implementation, practical architecture, and shipping working software.**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+
+<img height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Available for freelance & collaborative projects
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1D4ED8,50:0F172A,100:020617" width="100%"/>
+
+<!--
+Thanks for visiting.
+-->
