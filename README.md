@@ -1,24 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KOOROSH&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=20&color=0:020617,50:0F172A,100:1D4ED8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:1E3A8A,100:2563EB&height=260&section=header&text=KOOROSH&fontSize=72&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=FULL-STACK%20DEVELOPER&descAlignY=61&descSize=18&descColor=93C5FD" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&height=35&lines=I+build+web+applications+end-to-end;Backend+%E2%80%A2+Frontend+%E2%80%A2+Deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1100&color=60A5FA&center=true&vCenter=true&width=720&height=40&lines=Building+complete+web+applications;Backend+%E2%80%A2+Frontend+%E2%80%A2+Real-time;Learning+through+building+real+products" />
 
 <br/><br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## Building things, not just learning technologies.
+
+I build **full-stack web applications** with a strong focus on backend development,
+practical architecture, and turning ideas into working products.
 
 </div>
 
@@ -28,19 +39,11 @@
 
 <div align="center">
 
-### I build complete web products.
-
-**From backend architecture → frontend → database → deployment**
-
-</div>
+### `01` — CORE STACK
 
 <br/>
 
-## ⚡ Core Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,react,nextjs,typescript,postgresql,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=go,react,nextjs,typescript,postgresql,docker,linux,git&perline=8" />
 
 </div>
 
@@ -52,7 +55,8 @@
 
 ### Backend
 
-Go
+**Go**
+
 REST APIs
 PostgreSQL
 SQL
@@ -64,39 +68,35 @@ Database Design
 
 ### Frontend
 
-React
-Next.js
+**React · Next.js**
+
 TypeScript
-Responsive UI
+Responsive Interfaces
+API Integration
 
 </td>
 
 <td align="center" width="33%">
 
-### Deployment
+### Development
 
-Docker
-Linux
-Nginx
-Git
+**Docker · Linux · Git**
+
+Containerized Development
+Deployment
+Version Control
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🚀 Selected Work
+---
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=github_dark&hide_border=true" />
-</a>
+### `02` — HOW I BUILD
 
 </div>
 
@@ -104,53 +104,239 @@ Git
 
 <div align="center">
 
-**More projects → [View all repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
+```text
+                         ┌──────────────────┐
+                         │      PRODUCT     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │      ARCHITECTURE       │
+                    └────────────┬────────────┘
+                                 │
+                    ┌────────────┴────────────┐
+                    ▼                         ▼
+              ┌──────────┐              ┌──────────┐
+              │ FRONTEND │              │ BACKEND  │
+              │  React   │◄────────────►│   Go     │
+              │ Next.js  │              │   API    │
+              └──────────┘              └────┬─────┘
+                                             │
+                                             ▼
+                                      ┌─────────────┐
+                                      │ PostgreSQL  │
+                                      └──────┬──────┘
+                                             │
+                                             ▼
+                                      ┌─────────────┐
+                                      │   Docker    │
+                                      └─────────────┘
+```
 
 </div>
 
----
+<br/>
 
-## 🧩 How I Work
+I prefer **practical architecture over unnecessary complexity**.
 
-```text
-01  Understand the product
-          ↓
-02  Design the architecture
-          ↓
-03  Build the backend & database
-          ↓
-04  Build the frontend
-          ↓
-05  Containerize & deploy
-          ↓
-06  Improve
-```
-
-I focus on **clean implementation, practical architecture, and shipping working software.**
+As a project grows, I'm interested in understanding when a system should remain simple and when requirements justify approaches such as **microservices, distributed systems, or other architectural patterns**.
 
 ---
-
-## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+### `03` — CURRENTLY BUILDING
 
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="60%">
+
+## 🛒 E-Commerce Platform
+
+A complete web application built from the ground up.
+
+### Backend
+
+`Go` · `PostgreSQL` · `REST API`
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript`
+
+### Development
+
+`Docker` · `Linux` · `Git`
+
+The focus is on building a clean, maintainable application rather than simply getting features working.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=go,postgres,react,nextjs,docker" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+**Backend → Database → Frontend → Deployment**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `04` — REAL-TIME
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go" />
+
+<br/><br/>
+
+### WebSockets
+
+I'm also working with **WebSockets** where real-time communication is part of the product requirements.
+
+```text
+Client
+  │
+  │  WebSocket
+  ▼
+┌─────────────┐
+│   Go API    │
+└──────┬──────┘
+       │
+       ▼
+   Application
+       │
+       ▼
+   PostgreSQL
+```
 
 </div>
 
 ---
 
-## 🐍
+<div align="center">
+
+### `05` — KEEP LEARNING
+
+</div>
+
+<br/>
+
+I'm interested in continuously expanding my engineering knowledge through **real projects and practical problems**.
+
+Not every project needs every technology.
+
+I prefer learning something when the **problem actually calls for it**.
+
+<br/>
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,githubactions,terraform,ansible" />
+
+<br/><br/>
+
+`Containers`   ·   `Kubernetes`   ·   `CI/CD`   ·   `Infrastructure`
+
+</div>
+
+<br/>
+
+This also means exploring different ways of designing and running applications as their requirements evolve.
+
+---
+
+<div align="center">
+
+### `06` — ENGINEERING PRINCIPLE
+
+<br/>
+
+```text
+           START SIMPLE
+                │
+                ▼
+        UNDERSTAND THE NEED
+                │
+                ▼
+         BUILD THE PRODUCT
+                │
+                ▼
+       OBSERVE & MEASURE
+                │
+                ▼
+        SCALE WHEN NEEDED
+                │
+                ▼
+      INTRODUCE COMPLEXITY
+         ONLY WHEN IT
+           HAS VALUE
+```
+
+<br/>
+
+**The technology should serve the product — not the other way around.**
+
+</div>
+
+---
+
+<div align="center">
+
+### `07` — SELECTED PROJECTS
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=github_dark&hide_border=true&bg_color=020617" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=github_dark&hide_border=true&bg_color=020617" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `08` — GITHUB
+
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=020617&title_color=60A5FA&text_color=CBD5E1&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `09` — CONTRIBUTIONS
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 
@@ -158,12 +344,36 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 ---
 
+<br/>
+
 <div align="center">
 
-### Available for freelance & collaborative projects
+## Let's build something useful.
+
+I'm open to **freelance and collaborative web projects**.
+
+<br/>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT%20ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=60A5FA" />
+</a>
+
+ 
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=60A5FA" />
+</a>
+
+ 
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=60A5FA" />
 </a>
 
 <br/><br/>
@@ -172,8 +382,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1D4ED8,50:0F172A,100:020617" width="100%"/>
-
-<!--
-Thanks for visiting.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:1E3A8A,75:0F172A,100:020617&height=130&section=footer" width="100%"/>
